@@ -1,6 +1,6 @@
 # Pos Terminal App
 
-It is a sample Android mobile application designed to be used on Android Pos Terminals in sales workplaces.
+hi It is a sample Android mobile application designed to be used on Android Pos Terminals in sales workplaces.
 
 ## Features
 - The application was developed with MVVM design pattern.
